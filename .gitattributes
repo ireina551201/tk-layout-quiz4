@@ -1,0 +1,13 @@
+# Python source files
+*.py text eol=lf
+
+# Text files
+*.txt text eol=lf
+*.md  text eol=lf
+
+# Ignore line ending normalization for binary files
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.ico binary
